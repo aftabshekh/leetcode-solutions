@@ -45,4 +45,12 @@ My LeetCode problem solutions in Java, organized by difficulty level.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0289-game-of-life](https://github.com/aftabshekh/leetcode-solutions/tree/main/0289-game-of-life/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/aftabshekh/leetcode-solutions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/aftabshekh/leetcode-solutions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 <!---LeetCode Topics End-->
