@@ -21,6 +21,7 @@ My LeetCode problem solutions in Java, organized by difficulty level.
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/aftabshekh/leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
 | [0086-partition-list](https://github.com/aftabshekh/leetcode-solutions/tree/main/0086-partition-list/) | Medium |
+| [0725-split-linked-list-in-parts](https://github.com/aftabshekh/leetcode-solutions/tree/main/0725-split-linked-list-in-parts/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
