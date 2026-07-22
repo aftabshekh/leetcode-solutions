@@ -28,6 +28,7 @@ My LeetCode problem solutions in Java, organized by difficulty level.
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/aftabshekh/leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
 | [0086-partition-list](https://github.com/aftabshekh/leetcode-solutions/tree/main/0086-partition-list/) | Medium |
+| [0151-reverse-words-in-a-string](https://github.com/aftabshekh/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/aftabshekh/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aftabshekh/leetcode-solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Simulation
@@ -55,6 +56,7 @@ My LeetCode problem solutions in Java, organized by difficulty level.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/aftabshekh/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/aftabshekh/leetcode-solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/aftabshekh/leetcode-solutions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/aftabshekh/leetcode-solutions/tree/main/1143-longest-common-subsequence/) | Medium |
