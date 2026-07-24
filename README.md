@@ -7,6 +7,7 @@ My LeetCode problem solutions in Java, organized by difficulty level.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/aftabshekh/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
+| [0051-n-queens](https://github.com/aftabshekh/leetcode-solutions/tree/main/0051-n-queens/) | Hard |
 | [0164-maximum-gap](https://github.com/aftabshekh/leetcode-solutions/tree/main/0164-maximum-gap/) | Medium |
 | [0189-rotate-array](https://github.com/aftabshekh/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0289-game-of-life](https://github.com/aftabshekh/leetcode-solutions/tree/main/0289-game-of-life/) | Medium |
@@ -16,6 +17,7 @@ My LeetCode problem solutions in Java, organized by difficulty level.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/aftabshekh/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
+| [0051-n-queens](https://github.com/aftabshekh/leetcode-solutions/tree/main/0051-n-queens/) | Hard |
 | [0077-combinations](https://github.com/aftabshekh/leetcode-solutions/tree/main/0077-combinations/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
