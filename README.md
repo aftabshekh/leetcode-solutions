@@ -10,6 +10,7 @@ My LeetCode problem solutions in Java, organized by difficulty level.
 | [0051-n-queens](https://github.com/aftabshekh/leetcode-solutions/tree/main/0051-n-queens/) | Hard |
 | [0164-maximum-gap](https://github.com/aftabshekh/leetcode-solutions/tree/main/0164-maximum-gap/) | Medium |
 | [0189-rotate-array](https://github.com/aftabshekh/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/aftabshekh/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0289-game-of-life](https://github.com/aftabshekh/leetcode-solutions/tree/main/0289-game-of-life/) | Medium |
 | [0561-array-partition](https://github.com/aftabshekh/leetcode-solutions/tree/main/0561-array-partition/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aftabshekh/leetcode-solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -90,4 +91,8 @@ My LeetCode problem solutions in Java, organized by difficulty level.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/aftabshekh/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/aftabshekh/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
