@@ -13,6 +13,7 @@ My LeetCode problem solutions in Java, organized by difficulty level.
 | [0238-product-of-array-except-self](https://github.com/aftabshekh/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0289-game-of-life](https://github.com/aftabshekh/leetcode-solutions/tree/main/0289-game-of-life/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/aftabshekh/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/aftabshekh/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0561-array-partition](https://github.com/aftabshekh/leetcode-solutions/tree/main/0561-array-partition/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aftabshekh/leetcode-solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Backtracking
@@ -35,6 +36,7 @@ My LeetCode problem solutions in Java, organized by difficulty level.
 | [0086-partition-list](https://github.com/aftabshekh/leetcode-solutions/tree/main/0086-partition-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/aftabshekh/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/aftabshekh/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/aftabshekh/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aftabshekh/leetcode-solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -51,6 +53,7 @@ My LeetCode problem solutions in Java, organized by difficulty level.
 | [0147-insertion-sort-list](https://github.com/aftabshekh/leetcode-solutions/tree/main/0147-insertion-sort-list/) | Medium |
 | [0164-maximum-gap](https://github.com/aftabshekh/leetcode-solutions/tree/main/0164-maximum-gap/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/aftabshekh/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/aftabshekh/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0561-array-partition](https://github.com/aftabshekh/leetcode-solutions/tree/main/0561-array-partition/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -93,6 +96,7 @@ My LeetCode problem solutions in Java, organized by difficulty level.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/aftabshekh/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/aftabshekh/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/aftabshekh/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
@@ -114,4 +118,8 @@ My LeetCode problem solutions in Java, organized by difficulty level.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/aftabshekh/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/aftabshekh/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 <!---LeetCode Topics End-->
