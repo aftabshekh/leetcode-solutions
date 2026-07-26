@@ -25,6 +25,7 @@ My LeetCode problem solutions in Java, organized by difficulty level.
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/aftabshekh/leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
 | [0086-partition-list](https://github.com/aftabshekh/leetcode-solutions/tree/main/0086-partition-list/) | Medium |
+| [0147-insertion-sort-list](https://github.com/aftabshekh/leetcode-solutions/tree/main/0147-insertion-sort-list/) | Medium |
 | [0725-split-linked-list-in-parts](https://github.com/aftabshekh/leetcode-solutions/tree/main/0725-split-linked-list-in-parts/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -46,6 +47,7 @@ My LeetCode problem solutions in Java, organized by difficulty level.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0147-insertion-sort-list](https://github.com/aftabshekh/leetcode-solutions/tree/main/0147-insertion-sort-list/) | Medium |
 | [0164-maximum-gap](https://github.com/aftabshekh/leetcode-solutions/tree/main/0164-maximum-gap/) | Medium |
 | [0561-array-partition](https://github.com/aftabshekh/leetcode-solutions/tree/main/0561-array-partition/) | Easy |
 ## Counting Sort
