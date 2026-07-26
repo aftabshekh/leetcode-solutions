@@ -12,6 +12,7 @@ My LeetCode problem solutions in Java, organized by difficulty level.
 | [0189-rotate-array](https://github.com/aftabshekh/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/aftabshekh/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0289-game-of-life](https://github.com/aftabshekh/leetcode-solutions/tree/main/0289-game-of-life/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/aftabshekh/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0561-array-partition](https://github.com/aftabshekh/leetcode-solutions/tree/main/0561-array-partition/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aftabshekh/leetcode-solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Backtracking
@@ -49,10 +50,12 @@ My LeetCode problem solutions in Java, organized by difficulty level.
 | ------- | ------- |
 | [0147-insertion-sort-list](https://github.com/aftabshekh/leetcode-solutions/tree/main/0147-insertion-sort-list/) | Medium |
 | [0164-maximum-gap](https://github.com/aftabshekh/leetcode-solutions/tree/main/0164-maximum-gap/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/aftabshekh/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0561-array-partition](https://github.com/aftabshekh/leetcode-solutions/tree/main/0561-array-partition/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/aftabshekh/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/aftabshekh/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0561-array-partition](https://github.com/aftabshekh/leetcode-solutions/tree/main/0561-array-partition/) | Easy |
 ## Matrix
@@ -81,6 +84,7 @@ My LeetCode problem solutions in Java, organized by difficulty level.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/aftabshekh/leetcode-solutions/tree/main/0164-maximum-gap/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/aftabshekh/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Radix Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,6 +92,7 @@ My LeetCode problem solutions in Java, organized by difficulty level.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/aftabshekh/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/aftabshekh/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
@@ -97,4 +102,16 @@ My LeetCode problem solutions in Java, organized by difficulty level.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/aftabshekh/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/aftabshekh/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/aftabshekh/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/aftabshekh/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
