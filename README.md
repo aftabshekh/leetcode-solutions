@@ -8,6 +8,7 @@ My LeetCode problem solutions in Java, organized by difficulty level.
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/aftabshekh/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0051-n-queens](https://github.com/aftabshekh/leetcode-solutions/tree/main/0051-n-queens/) | Hard |
+| [0152-maximum-product-subarray](https://github.com/aftabshekh/leetcode-solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0164-maximum-gap](https://github.com/aftabshekh/leetcode-solutions/tree/main/0164-maximum-gap/) | Medium |
 | [0189-rotate-array](https://github.com/aftabshekh/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/aftabshekh/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -76,6 +77,7 @@ My LeetCode problem solutions in Java, organized by difficulty level.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0152-maximum-product-subarray](https://github.com/aftabshekh/leetcode-solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/aftabshekh/leetcode-solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/aftabshekh/leetcode-solutions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/aftabshekh/leetcode-solutions/tree/main/1143-longest-common-subsequence/) | Medium |
