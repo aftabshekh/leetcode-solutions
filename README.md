@@ -106,6 +106,7 @@ My LeetCode problem solutions in Java, organized by difficulty level.
 | [0349-intersection-of-two-arrays](https://github.com/aftabshekh/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/aftabshekh/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/aftabshekh/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [2374-node-with-highest-edge-score](https://github.com/aftabshekh/leetcode-solutions/tree/main/2374-node-with-highest-edge-score/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,4 +141,8 @@ My LeetCode problem solutions in Java, organized by difficulty level.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/aftabshekh/leetcode-solutions/tree/main/2411-smallest-subarrays-with-maximum-bitwise-or/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2374-node-with-highest-edge-score](https://github.com/aftabshekh/leetcode-solutions/tree/main/2374-node-with-highest-edge-score/) | Medium |
 <!---LeetCode Topics End-->
