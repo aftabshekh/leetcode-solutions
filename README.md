@@ -8,6 +8,7 @@ My LeetCode problem solutions in Java, organized by difficulty level.
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/aftabshekh/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0051-n-queens](https://github.com/aftabshekh/leetcode-solutions/tree/main/0051-n-queens/) | Hard |
+| [0085-maximal-rectangle](https://github.com/aftabshekh/leetcode-solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/aftabshekh/leetcode-solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0164-maximum-gap](https://github.com/aftabshekh/leetcode-solutions/tree/main/0164-maximum-gap/) | Medium |
 | [0189-rotate-array](https://github.com/aftabshekh/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
@@ -68,6 +69,7 @@ My LeetCode problem solutions in Java, organized by difficulty level.
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0085-maximal-rectangle](https://github.com/aftabshekh/leetcode-solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0289-game-of-life](https://github.com/aftabshekh/leetcode-solutions/tree/main/0289-game-of-life/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -81,6 +83,7 @@ My LeetCode problem solutions in Java, organized by difficulty level.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0085-maximal-rectangle](https://github.com/aftabshekh/leetcode-solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/aftabshekh/leetcode-solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/aftabshekh/leetcode-solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/aftabshekh/leetcode-solutions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
@@ -145,4 +148,12 @@ My LeetCode problem solutions in Java, organized by difficulty level.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2374-node-with-highest-edge-score](https://github.com/aftabshekh/leetcode-solutions/tree/main/2374-node-with-highest-edge-score/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0085-maximal-rectangle](https://github.com/aftabshekh/leetcode-solutions/tree/main/0085-maximal-rectangle/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0085-maximal-rectangle](https://github.com/aftabshekh/leetcode-solutions/tree/main/0085-maximal-rectangle/) | Hard |
 <!---LeetCode Topics End-->
