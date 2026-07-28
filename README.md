@@ -17,6 +17,7 @@ My LeetCode problem solutions in Java, organized by difficulty level.
 | [0349-intersection-of-two-arrays](https://github.com/aftabshekh/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0561-array-partition](https://github.com/aftabshekh/leetcode-solutions/tree/main/0561-array-partition/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aftabshekh/leetcode-solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/aftabshekh/leetcode-solutions/tree/main/2411-smallest-subarrays-with-maximum-bitwise-or/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,4 +125,13 @@ My LeetCode problem solutions in Java, organized by difficulty level.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/aftabshekh/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/aftabshekh/leetcode-solutions/tree/main/2411-smallest-subarrays-with-maximum-bitwise-or/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/aftabshekh/leetcode-solutions/tree/main/2411-smallest-subarrays-with-maximum-bitwise-or/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/aftabshekh/leetcode-solutions/tree/main/2411-smallest-subarrays-with-maximum-bitwise-or/) | Medium |
 <!---LeetCode Topics End-->
