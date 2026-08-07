@@ -7,6 +7,7 @@ My LeetCode problem solutions in Java, organized by difficulty level.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/aftabshekh/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
+| [0041-first-missing-positive](https://github.com/aftabshekh/leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0051-n-queens](https://github.com/aftabshekh/leetcode-solutions/tree/main/0051-n-queens/) | Hard |
 | [0085-maximal-rectangle](https://github.com/aftabshekh/leetcode-solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/aftabshekh/leetcode-solutions/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -105,6 +106,7 @@ My LeetCode problem solutions in Java, organized by difficulty level.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0041-first-missing-positive](https://github.com/aftabshekh/leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/aftabshekh/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/aftabshekh/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/aftabshekh/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
