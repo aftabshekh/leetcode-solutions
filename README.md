@@ -14,6 +14,7 @@ My LeetCode problem solutions in Java, organized by difficulty level.
 | [0164-maximum-gap](https://github.com/aftabshekh/leetcode-solutions/tree/main/0164-maximum-gap/) | Medium |
 | [0189-rotate-array](https://github.com/aftabshekh/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/aftabshekh/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0268-missing-number](https://github.com/aftabshekh/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0289-game-of-life](https://github.com/aftabshekh/leetcode-solutions/tree/main/0289-game-of-life/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/aftabshekh/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/aftabshekh/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -56,6 +57,7 @@ My LeetCode problem solutions in Java, organized by difficulty level.
 | ------- | ------- |
 | [0147-insertion-sort-list](https://github.com/aftabshekh/leetcode-solutions/tree/main/0147-insertion-sort-list/) | Medium |
 | [0164-maximum-gap](https://github.com/aftabshekh/leetcode-solutions/tree/main/0164-maximum-gap/) | Medium |
+| [0268-missing-number](https://github.com/aftabshekh/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/aftabshekh/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/aftabshekh/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/aftabshekh/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -93,6 +95,7 @@ My LeetCode problem solutions in Java, organized by difficulty level.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/aftabshekh/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
+| [0268-missing-number](https://github.com/aftabshekh/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,6 +110,7 @@ My LeetCode problem solutions in Java, organized by difficulty level.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/aftabshekh/leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
+| [0268-missing-number](https://github.com/aftabshekh/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/aftabshekh/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/aftabshekh/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/aftabshekh/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -136,11 +140,13 @@ My LeetCode problem solutions in Java, organized by difficulty level.
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/aftabshekh/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/aftabshekh/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/aftabshekh/leetcode-solutions/tree/main/2411-smallest-subarrays-with-maximum-bitwise-or/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/aftabshekh/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/aftabshekh/leetcode-solutions/tree/main/2411-smallest-subarrays-with-maximum-bitwise-or/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
