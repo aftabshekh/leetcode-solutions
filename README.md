@@ -21,6 +21,7 @@ My LeetCode problem solutions in Java, organized by difficulty level.
 | [0561-array-partition](https://github.com/aftabshekh/leetcode-solutions/tree/main/0561-array-partition/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aftabshekh/leetcode-solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/aftabshekh/leetcode-solutions/tree/main/2411-smallest-subarrays-with-maximum-bitwise-or/) | Medium |
+| [3005-count-elements-with-maximum-frequency](https://github.com/aftabshekh/leetcode-solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,6 +70,7 @@ My LeetCode problem solutions in Java, organized by difficulty level.
 | [0387-first-unique-character-in-a-string](https://github.com/aftabshekh/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/aftabshekh/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0561-array-partition](https://github.com/aftabshekh/leetcode-solutions/tree/main/0561-array-partition/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/aftabshekh/leetcode-solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,6 +118,7 @@ My LeetCode problem solutions in Java, organized by difficulty level.
 | [0387-first-unique-character-in-a-string](https://github.com/aftabshekh/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/aftabshekh/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [2374-node-with-highest-edge-score](https://github.com/aftabshekh/leetcode-solutions/tree/main/2374-node-with-highest-edge-score/) | Medium |
+| [3005-count-elements-with-maximum-frequency](https://github.com/aftabshekh/leetcode-solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
