@@ -3,18 +3,21 @@ class Solution {
         int n = nums.length;
         k = k % n;
 
-        reverse(nums, 0, n - 1);      // reverse whole array
-        reverse(nums, 0, k - 1);      // reverse first k
-        reverse(nums, k, n - 1);      // reverse remaining
-    }
+        int[] temp = new int[n];
 
-    private void reverse(int[] nums, int start, int end) {
-        while (start < end) {
-            int temp = nums[start];
-            nums[start] = nums[end];
-            nums[end] = temp;
-            start++;
-            end--;
+        // Last k elements
+        for(int i = 0; i < k; i++) {
+            temp[i] = nums[n - k + i];
+        }
+
+        // Remaining elements
+        for(int i = 0; i < n - k; i++) {
+            temp[k + i] = nums[i];
+        }
+
+        // Copy back
+        for(int i = 0; i < n; i++) {
+            nums[i] = temp[i];
         }
     }
 }
